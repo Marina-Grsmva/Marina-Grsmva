@@ -14,7 +14,8 @@ I hold a PhD in Philology, and my previous professional experience includes teac
 Now I'm delving into the world of data and continue to develop my skills in statistical analysis and product analytics.
 
 
-## Know about my experiences <a href="https://spb.hh.ru/resume/000fc104ff0c6d716e0039ed1f7769396e7750">
+## Know about my experiences 
+<a href="https://spb.hh.ru/resume/000fc104ff0c6d716e0039ed1f7769396e7750">
 <img src="https://bangbangeducation.ru/point/content/images/2023/12/logotip-hh-ru.jpg" height="30" width="50"/> </a>
 
 
