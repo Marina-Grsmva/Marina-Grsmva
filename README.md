@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Marina-Grsmva/Marina-Grsmva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,7 +8,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📫 Connect with me:
+marina.grsmva@gmail.com
+https://t.me/marina_grsmva
+
+
+pandas, matplotlib, seaborn, scipy, numpy, math, datetime, locale, tqdm, json, folium
